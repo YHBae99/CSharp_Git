@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA911AB-D249-4B08-A35A-1AB6E873B294}|Timer(ClickerGame)\\Timer(ClickerGame).csproj|d:\\share\\github\\csharp\\timer(clickergame)\\timer(clickergame)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA911AB-D249-4B08-A35A-1AB6E873B294}|Timer(ClickerGame)\\Timer(ClickerGame).csproj|solutionrelative:timer(clickergame)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA911AB-D249-4B08-A35A-1AB6E873B294}|Timer(ClickerGame)\\Timer(ClickerGame).csproj|d:\\share\\github\\csharp\\timer(clickergame)\\timer(clickergame)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA911AB-D249-4B08-A35A-1AB6E873B294}|Timer(ClickerGame)\\Timer(ClickerGame).csproj|solutionrelative:timer(clickergame)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA911AB-D249-4B08-A35A-1AB6E873B294}|Timer(ClickerGame)\\Timer(ClickerGame).csproj|D:\\share\\github\\csharp\\Timer(ClickerGame)\\timer(clickergame)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDA911AB-D249-4B08-A35A-1AB6E873B294}|Timer(ClickerGame)\\Timer(ClickerGame).csproj|solutionrelative:timer(clickergame)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\Timer(ClickerGame)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Timer(ClickerGame)\\Form1.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\Timer(ClickerGame)\\Form1.Designer.cs",
+              "RelativeToolTip": "Timer(ClickerGame)\\Form1.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAjwG8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:34:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\Timer(ClickerGame)\\Form1.cs",
+              "RelativeDocumentMoniker": "Timer(ClickerGame)\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\Timer(ClickerGame)\\Form1.cs",
+              "RelativeToolTip": "Timer(ClickerGame)\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:55:12.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\Timer(ClickerGame)\\Form1.cs",
+              "RelativeDocumentMoniker": "Timer(ClickerGame)\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\Timer(ClickerGame)\\Timer(ClickerGame)\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Timer(ClickerGame)\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:44:40.956Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

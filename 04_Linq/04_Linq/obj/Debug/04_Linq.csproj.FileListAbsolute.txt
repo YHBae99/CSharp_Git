@@ -1,0 +1,9 @@
+D:\share\github\csharp\04_Linq\04_Linq\bin\Debug\04_Linq.exe.config
+D:\share\github\csharp\04_Linq\04_Linq\bin\Debug\04_Linq.exe
+D:\share\github\csharp\04_Linq\04_Linq\bin\Debug\04_Linq.pdb
+D:\share\github\csharp\04_Linq\04_Linq\obj\Debug\04_Linq.csproj.AssemblyReference.cache
+D:\share\github\csharp\04_Linq\04_Linq\obj\Debug\_04_Linq.Properties.Resources.resources
+D:\share\github\csharp\04_Linq\04_Linq\obj\Debug\04_Linq.csproj.GenerateResource.cache
+D:\share\github\csharp\04_Linq\04_Linq\obj\Debug\04_Linq.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\04_Linq\04_Linq\obj\Debug\04_Linq.exe
+D:\share\github\csharp\04_Linq\04_Linq\obj\Debug\04_Linq.pdb

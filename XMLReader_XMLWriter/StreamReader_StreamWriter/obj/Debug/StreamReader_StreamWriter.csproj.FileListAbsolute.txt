@@ -1,0 +1,10 @@
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\StreamReader_StreamWriter.exe.config
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\StreamReader_StreamWriter.exe
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\bin\Debug\StreamReader_StreamWriter.pdb
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.csproj.AssemblyReference.cache
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.Form1.resources
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.Properties.Resources.resources
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.csproj.GenerateResource.cache
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.exe
+D:\share\github\csharp\StreamReader_StreamWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.pdb

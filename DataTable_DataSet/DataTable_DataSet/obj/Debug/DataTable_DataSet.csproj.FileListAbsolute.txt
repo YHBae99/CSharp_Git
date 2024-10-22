@@ -1,0 +1,10 @@
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\bin\Debug\DataTable_DataSet.exe.config
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\bin\Debug\DataTable_DataSet.exe
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\bin\Debug\DataTable_DataSet.pdb
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.csproj.AssemblyReference.cache
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.Form1.resources
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.Properties.Resources.resources
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.csproj.GenerateResource.cache
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.exe
+D:\share\github\csharp\DataTable_DataSet\DataTable_DataSet\obj\Debug\DataTable_DataSet.pdb

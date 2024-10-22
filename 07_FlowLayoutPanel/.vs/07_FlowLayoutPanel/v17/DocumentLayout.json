@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|d:\\share\\github\\csharp\\07_flowlayoutpanel\\06_layout\\uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|d:\\share\\github\\csharp\\07_flowlayoutpanel\\06_layout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\06_Layout.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\06_Layout.csproj|solutionrelative:06_layout\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|d:\\share\\github\\csharp\\07_flowlayoutpanel\\06_layout\\ucpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\ucpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\ucpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|d:\\share\\github\\csharp\\07_flowlayoutpanel\\06_layout\\uccolormenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\uccolormenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\uccolormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_layout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1680C8D-975C-46AB-AC10-A22F2E06B8D4}|06_Layout\\07_FlowLayoutPanel.csproj|solutionrelative:06_layout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.cs",
+              "RelativeDocumentMoniker": "06_Layout\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.cs",
+              "RelativeToolTip": "06_Layout\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:17:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucPanel.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucPanel.Designer.cs",
+              "RelativeDocumentMoniker": "06_Layout\\ucPanel.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucPanel.Designer.cs",
+              "RelativeToolTip": "06_Layout\\ucPanel.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:15:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucColorMenu.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucColorMenu.Designer.cs",
+              "RelativeDocumentMoniker": "06_Layout\\ucColorMenu.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucColorMenu.Designer.cs",
+              "RelativeToolTip": "06_Layout\\ucColorMenu.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwFoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:14:44.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ucColorMenu.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucColorMenu.cs",
+              "RelativeDocumentMoniker": "06_Layout\\ucColorMenu.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucColorMenu.cs",
+              "RelativeToolTip": "06_Layout\\ucColorMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:30:50.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucColorMenu.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucColorMenu.cs",
+              "RelativeDocumentMoniker": "06_Layout\\ucColorMenu.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucColorMenu.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "06_Layout\\ucColorMenu.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:30:45.092Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucPanel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucPanel.cs",
+              "RelativeDocumentMoniker": "06_Layout\\ucPanel.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucPanel.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "06_Layout\\ucPanel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:29:17.369Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucPanel.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucPanel.cs",
+              "RelativeDocumentMoniker": "06_Layout\\ucPanel.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\ucPanel.cs",
+              "RelativeToolTip": "06_Layout\\ucPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:25:35.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Program.cs",
+              "RelativeDocumentMoniker": "06_Layout\\Program.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Program.cs",
+              "RelativeToolTip": "06_Layout\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:25:31.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.cs",
+              "RelativeDocumentMoniker": "06_Layout\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "06_Layout\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:24:58.757Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "06_Layout\\Form1.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.Designer.cs",
+              "RelativeToolTip": "06_Layout\\Form1.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADwv6oAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:25:19.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\07_FlowLayoutPanel\\06_Layout\\Form1.cs",
+              "RelativeDocumentMoniker": "06_Layout\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\06_Layout\\06_Layout\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\06_Layout\\06_Layout\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:21:00.086Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\FartialClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|d:\\share\\github\\csharp\\fartialclass\\fartialclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|solutionrelative:fartialclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|d:\\share\\github\\csharp\\fartialclass\\fartialclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|solutionrelative:fartialclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|d:\\share\\github\\csharp\\fartialclass\\fartialclass\\cdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|solutionrelative:fartialclass\\cdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|d:\\share\\github\\csharp\\fartialclass\\fartialclass\\enumclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|solutionrelative:fartialclass\\enumclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|d:\\share\\github\\csharp\\fartialclass\\fartialclass\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3438AC-351A-4C52-A979-B000E49A314F}|FartialClass\\FartialClass.csproj|solutionrelative:fartialclass\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FartialClass\\Form1.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\Form1.Designer.cs",
+              "RelativeToolTip": "FartialClass\\Form1.Designer.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:03:11.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "enumClass.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\enumClass.cs",
+              "RelativeDocumentMoniker": "FartialClass\\enumClass.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\enumClass.cs",
+              "RelativeToolTip": "FartialClass\\enumClass.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:59:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cData.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\cData.cs",
+              "RelativeDocumentMoniker": "FartialClass\\cData.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\cData.cs",
+              "RelativeToolTip": "FartialClass\\cData.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwHUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:51:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\Form1.cs",
+              "RelativeDocumentMoniker": "FartialClass\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\Form1.cs",
+              "RelativeToolTip": "FartialClass\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:28:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\Form1.cs",
+              "RelativeDocumentMoniker": "FartialClass\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\FartialClass\\FartialClass\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FartialClass\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:24:44.081Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

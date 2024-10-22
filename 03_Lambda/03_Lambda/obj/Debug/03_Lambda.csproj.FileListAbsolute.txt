@@ -1,0 +1,10 @@
+D:\share\github\csharp\03_Lambda\03_Lambda\bin\Debug\03_Lambda.exe.config
+D:\share\github\csharp\03_Lambda\03_Lambda\bin\Debug\03_Lambda.exe
+D:\share\github\csharp\03_Lambda\03_Lambda\bin\Debug\03_Lambda.pdb
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\03_Lambda.csproj.AssemblyReference.cache
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\_03_Lambda.Properties.Resources.resources
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\03_Lambda.csproj.GenerateResource.cache
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\03_Lambda.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\03_Lambda.exe
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\03_Lambda.pdb
+D:\share\github\csharp\03_Lambda\03_Lambda\obj\Debug\_03_Lambda.Form1.resources

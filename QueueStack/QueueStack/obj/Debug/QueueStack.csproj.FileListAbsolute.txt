@@ -1,0 +1,10 @@
+D:\share\github\csharp\QueueStack\QueueStack\bin\Debug\QueueStack.exe.config
+D:\share\github\csharp\QueueStack\QueueStack\bin\Debug\QueueStack.exe
+D:\share\github\csharp\QueueStack\QueueStack\bin\Debug\QueueStack.pdb
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.csproj.AssemblyReference.cache
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.Form1.resources
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.Properties.Resources.resources
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.csproj.GenerateResource.cache
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.exe
+D:\share\github\csharp\QueueStack\QueueStack\obj\Debug\QueueStack.pdb

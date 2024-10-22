@@ -1,0 +1,10 @@
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\bin\Debug\05_AssemblyVersion.exe.config
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\bin\Debug\05_AssemblyVersion.exe
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\bin\Debug\05_AssemblyVersion.pdb
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\05_AssemblyVersion.csproj.AssemblyReference.cache
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\_05_AssemblyVersion.Form1.resources
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\_05_AssemblyVersion.Properties.Resources.resources
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\05_AssemblyVersion.csproj.GenerateResource.cache
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\05_AssemblyVersion.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\05_AssemblyVersion.exe
+D:\share\github\csharp\05_AssemblyVersion\05_AssemblyVersion\obj\Debug\05_AssemblyVersion.pdb

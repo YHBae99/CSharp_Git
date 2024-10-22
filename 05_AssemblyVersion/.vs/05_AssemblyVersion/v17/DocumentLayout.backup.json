@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\05_AssemblyVersion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|D:\\share\\github\\csharp\\05_AssemblyVersion\\05_assemblyversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|solutionrelative:05_assemblyversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|d:\\share\\github\\csharp\\05_assemblyversion\\05_assemblyversion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|solutionrelative:05_assemblyversion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|D:\\share\\github\\csharp\\05_AssemblyVersion\\05_assemblyversion\\csize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|solutionrelative:05_assemblyversion\\csize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|D:\\share\\github\\csharp\\05_AssemblyVersion\\05_assemblyversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|solutionrelative:05_assemblyversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|D:\\share\\github\\csharp\\05_AssemblyVersion\\05_assemblyversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBC3B6A-E784-486A-BF3F-8E5E8DCAFB2F}|05_AssemblyVersion\\05_AssemblyVersion.csproj|solutionrelative:05_assemblyversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Program.cs",
+              "RelativeDocumentMoniker": "05_AssemblyVersion\\Program.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Program.cs",
+              "RelativeToolTip": "05_AssemblyVersion\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:25:53.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSize.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\CSize.cs",
+              "RelativeDocumentMoniker": "05_AssemblyVersion\\CSize.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\CSize.cs",
+              "RelativeToolTip": "05_AssemblyVersion\\CSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:25:22.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "05_AssemblyVersion\\Form1.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Form1.Designer.cs",
+              "RelativeToolTip": "05_AssemblyVersion\\Form1.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:24:19.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Form1.cs",
+              "RelativeDocumentMoniker": "05_AssemblyVersion\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Form1.cs",
+              "RelativeToolTip": "05_AssemblyVersion\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:24:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Form1.cs",
+              "RelativeDocumentMoniker": "05_AssemblyVersion\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\05_AssemblyVersion\\05_AssemblyVersion\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "05_AssemblyVersion\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:23:55.688Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

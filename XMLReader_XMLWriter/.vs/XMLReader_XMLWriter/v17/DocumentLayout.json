@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\XMLReader_XMLWriter.csproj|D:\\share\\github\\csharp\\XMLReader_XMLWriter\\streamreader_streamwriter\\cxmlcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\XMLReader_XMLWriter.csproj|solutionrelative:streamreader_streamwriter\\cxmlcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\XMLReader_XMLWriter.csproj|d:\\share\\github\\csharp\\xmlreader_xmlwriter\\streamreader_streamwriter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\XMLReader_XMLWriter.csproj|solutionrelative:streamreader_streamwriter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\StreamReader_StreamWriter.csproj|D:\\share\\github\\csharp\\XMLReader_XMLWriter\\streamreader_streamwriter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\StreamReader_StreamWriter.csproj|solutionrelative:streamreader_streamwriter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\XMLReader_XMLWriter.csproj|D:\\share\\github\\csharp\\XMLReader_XMLWriter\\streamreader_streamwriter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98BC93C1-0059-4519-8A29-4B0DC4124FF8}|StreamReader_StreamWriter\\XMLReader_XMLWriter.csproj|solutionrelative:streamreader_streamwriter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\Form1.cs",
+              "RelativeDocumentMoniker": "StreamReader_StreamWriter\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\Form1.cs",
+              "RelativeToolTip": "StreamReader_StreamWriter\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:15:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CXMLControl.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\CXMLControl.cs",
+              "RelativeDocumentMoniker": "StreamReader_StreamWriter\\CXMLControl.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\CXMLControl.cs",
+              "RelativeToolTip": "StreamReader_StreamWriter\\CXMLControl.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:20:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\Form1.cs",
+              "RelativeDocumentMoniker": "StreamReader_StreamWriter\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "StreamReader_StreamWriter\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:15:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\Form1.cs",
+              "RelativeDocumentMoniker": "StreamReader_StreamWriter\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\XMLReader_XMLWriter\\StreamReader_StreamWriter\\Form1.cs",
+              "RelativeToolTip": "StreamReader_StreamWriter\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:11:57.641Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

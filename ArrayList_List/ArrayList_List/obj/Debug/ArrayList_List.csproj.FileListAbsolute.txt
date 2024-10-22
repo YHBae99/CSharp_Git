@@ -1,0 +1,10 @@
+D:\share\github\csharp\ArrayList_List\ArrayList_List\bin\Debug\ArrayList_List.exe.config
+D:\share\github\csharp\ArrayList_List\ArrayList_List\bin\Debug\ArrayList_List.exe
+D:\share\github\csharp\ArrayList_List\ArrayList_List\bin\Debug\ArrayList_List.pdb
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.csproj.AssemblyReference.cache
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.Form1.resources
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.Properties.Resources.resources
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.csproj.GenerateResource.cache
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.exe
+D:\share\github\csharp\ArrayList_List\ArrayList_List\obj\Debug\ArrayList_List.pdb

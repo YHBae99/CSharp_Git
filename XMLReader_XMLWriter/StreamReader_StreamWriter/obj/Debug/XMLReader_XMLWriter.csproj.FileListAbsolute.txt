@@ -1,0 +1,10 @@
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\bin\Debug\XMLReader_XMLWriter.exe.config
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\bin\Debug\XMLReader_XMLWriter.exe
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\bin\Debug\XMLReader_XMLWriter.pdb
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\XMLReader_XMLWriter.csproj.AssemblyReference.cache
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\StreamReader_StreamWriter.Form1.resources
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\XMLReader_XMLWriter.Properties.Resources.resources
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\XMLReader_XMLWriter.csproj.GenerateResource.cache
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\XMLReader_XMLWriter.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\XMLReader_XMLWriter.exe
+D:\share\github\csharp\XMLReader_XMLWriter\StreamReader_StreamWriter\obj\Debug\XMLReader_XMLWriter.pdb

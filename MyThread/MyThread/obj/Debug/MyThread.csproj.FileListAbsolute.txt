@@ -1,0 +1,11 @@
+D:\share\github\csharp\MyThread\MyThread\bin\Debug\MyThread.exe.config
+D:\share\github\csharp\MyThread\MyThread\bin\Debug\MyThread.exe
+D:\share\github\csharp\MyThread\MyThread\bin\Debug\MyThread.pdb
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.csproj.AssemblyReference.cache
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.Form1.resources
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.Properties.Resources.resources
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.csproj.GenerateResource.cache
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.exe
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.pdb
+D:\share\github\csharp\MyThread\MyThread\obj\Debug\MyThread.Play.resources

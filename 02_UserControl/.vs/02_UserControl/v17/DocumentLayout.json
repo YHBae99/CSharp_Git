@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\02_UserControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|d:\\share\\github\\csharp\\02_usercontrol\\02_usercontrol\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|D:\\share\\github\\csharp\\02_UserControl\\02_usercontrol\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\ucinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|D:\\share\\github\\csharp\\02_UserControl\\02_usercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|D:\\share\\github\\csharp\\02_UserControl\\02_usercontrol\\ucinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\ucinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|D:\\share\\github\\csharp\\02_UserControl\\02_usercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|D:\\share\\github\\csharp\\02_UserControl\\02_usercontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|D:\\share\\github\\csharp\\02_UserControl\\02_usercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20C5A90-1B28-4B62-B093-60D8E26F7D24}|02_UserControl\\02_UserControl.csproj|solutionrelative:02_usercontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Program.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\Program.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Program.cs",
+              "RelativeToolTip": "02_UserControl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:14:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCInfo.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\UCInfo.Designer.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\UCInfo.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\UCInfo.Designer.cs",
+              "RelativeToolTip": "02_UserControl\\UCInfo.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:12:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\Form1.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Form1.Designer.cs",
+              "RelativeToolTip": "02_UserControl\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:09:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCInfo.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\UCInfo.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\UCInfo.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\UCInfo.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "02_UserControl\\UCInfo.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:09:46.347Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Form1.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "02_UserControl\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:09:40.455Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCInfo.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\UCInfo.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\UCInfo.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\UCInfo.cs",
+              "RelativeToolTip": "02_UserControl\\UCInfo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:59:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Form1.cs",
+              "RelativeDocumentMoniker": "02_UserControl\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\02_UserControl\\02_UserControl\\Form1.cs",
+              "RelativeToolTip": "02_UserControl\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:57:12.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

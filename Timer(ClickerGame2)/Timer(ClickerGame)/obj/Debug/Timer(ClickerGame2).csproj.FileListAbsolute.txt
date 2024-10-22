@@ -1,0 +1,10 @@
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\bin\Debug\Timer(ClickerGame).exe.config
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\bin\Debug\Timer(ClickerGame).exe
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\bin\Debug\Timer(ClickerGame).pdb
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer(ClickerGame2).csproj.AssemblyReference.cache
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer_ClickerGame_.Form1.resources
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer_ClickerGame_.Properties.Resources.resources
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer(ClickerGame2).csproj.GenerateResource.cache
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer(ClickerGame2).csproj.CoreCompileInputs.cache
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer(ClickerGame).exe
+D:\share\github\csharp\Timer(ClickerGame2)\Timer(ClickerGame)\obj\Debug\Timer(ClickerGame).pdb

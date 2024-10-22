@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\share\\github\\csharp\\Delegate_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C13CA5-FA3C-428A-807D-E28DD111183F}|Delegate_1\\Delegate_1.csproj|d:\\share\\github\\csharp\\delegate_1\\delegate_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C13CA5-FA3C-428A-807D-E28DD111183F}|Delegate_1\\Delegate_1.csproj|solutionrelative:delegate_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C13CA5-FA3C-428A-807D-E28DD111183F}|Delegate_1\\Delegate_1.csproj|d:\\share\\github\\csharp\\delegate_1\\delegate_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63C13CA5-FA3C-428A-807D-E28DD111183F}|Delegate_1\\Delegate_1.csproj|solutionrelative:delegate_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C13CA5-FA3C-428A-807D-E28DD111183F}|Delegate_1\\Delegate_1.csproj|d:\\share\\github\\csharp\\delegate_1\\delegate_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C13CA5-FA3C-428A-807D-E28DD111183F}|Delegate_1\\Delegate_1.csproj|solutionrelative:delegate_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\Delegate_1\\Delegate_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Delegate_1\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\Delegate_1\\Delegate_1\\Form1.cs",
+              "RelativeToolTip": "Delegate_1\\Form1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:35:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\Delegate_1\\Delegate_1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Delegate_1\\Form1.Designer.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\Delegate_1\\Delegate_1\\Form1.Designer.cs",
+              "RelativeToolTip": "Delegate_1\\Form1.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwMYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:34:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\share\\github\\csharp\\Delegate_1\\Delegate_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Delegate_1\\Form1.cs",
+              "ToolTip": "D:\\share\\github\\csharp\\Delegate_1\\Delegate_1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Delegate_1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:33:23.657Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

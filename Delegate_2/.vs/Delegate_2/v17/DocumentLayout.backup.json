@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\CSharp\\Delegate_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\frmpizza.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\frmpizza.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|e:\\github\\csharp\\delegate_2\\delegate_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255A93B7-4539-4A3A-9951-740A9DDB9FF6}|Delegate_2\\Delegate_2.csproj|solutionrelative:delegate_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\Program.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Program.cs",
+              "RelativeToolTip": "Delegate_2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:00:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPizza.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\frmPizza.Designer.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\frmPizza.Designer.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\frmPizza.Designer.cs",
+              "RelativeToolTip": "Delegate_2\\frmPizza.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:22.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPizza.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\frmPizza.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\frmPizza.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\frmPizza.cs",
+              "RelativeToolTip": "Delegate_2\\frmPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:25.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPizza.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\frmPizza.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\frmPizza.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\frmPizza.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Delegate_2\\frmPizza.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:19.277Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\Form1.Designer.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Delegate_2\\Form1.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAASwNYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:55:09.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\Form1.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Form1.cs",
+              "RelativeToolTip": "Delegate_2\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:55:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Delegate_2\\Form1.cs",
+              "ToolTip": "E:\\Github\\CSharp\\Delegate_2\\Delegate_2\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Delegate_2\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:22:44.911Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

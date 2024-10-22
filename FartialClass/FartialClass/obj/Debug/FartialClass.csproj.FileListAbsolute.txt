@@ -1,0 +1,10 @@
+D:\share\github\csharp\FartialClass\FartialClass\bin\Debug\FartialClass.exe.config
+D:\share\github\csharp\FartialClass\FartialClass\bin\Debug\FartialClass.exe
+D:\share\github\csharp\FartialClass\FartialClass\bin\Debug\FartialClass.pdb
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.csproj.AssemblyReference.cache
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.Form1.resources
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.Properties.Resources.resources
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.csproj.GenerateResource.cache
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.exe
+D:\share\github\csharp\FartialClass\FartialClass\obj\Debug\FartialClass.pdb

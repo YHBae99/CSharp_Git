@@ -1,0 +1,10 @@
+D:\share\github\csharp\00_Excption\00_Excption\bin\Debug\00_Excption.exe.config
+D:\share\github\csharp\00_Excption\00_Excption\bin\Debug\00_Excption.exe
+D:\share\github\csharp\00_Excption\00_Excption\bin\Debug\00_Excption.pdb
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\00_Excption.csproj.AssemblyReference.cache
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\_00_Excption.Form1.resources
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\_00_Excption.Properties.Resources.resources
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\00_Excption.csproj.GenerateResource.cache
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\00_Excption.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\00_Excption.exe
+D:\share\github\csharp\00_Excption\00_Excption\obj\Debug\00_Excption.pdb

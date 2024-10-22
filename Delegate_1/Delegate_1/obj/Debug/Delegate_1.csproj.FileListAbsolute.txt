@@ -1,0 +1,10 @@
+D:\share\github\csharp\Delegate_1\Delegate_1\bin\Debug\Delegate_1.exe.config
+D:\share\github\csharp\Delegate_1\Delegate_1\bin\Debug\Delegate_1.exe
+D:\share\github\csharp\Delegate_1\Delegate_1\bin\Debug\Delegate_1.pdb
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.csproj.AssemblyReference.cache
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.Form1.resources
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.Properties.Resources.resources
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.csproj.GenerateResource.cache
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.exe
+D:\share\github\csharp\Delegate_1\Delegate_1\obj\Debug\Delegate_1.pdb

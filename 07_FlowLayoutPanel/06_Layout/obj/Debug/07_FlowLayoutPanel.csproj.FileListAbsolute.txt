@@ -1,0 +1,11 @@
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\bin\Debug\06_Layout.exe.config
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\bin\Debug\06_Layout.exe
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\bin\Debug\06_Layout.pdb
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\07_FlowLayoutPanel.csproj.AssemblyReference.cache
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\_06_Layout.Form1.resources
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\_06_Layout.Properties.Resources.resources
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\_06_Layout.ucPanel.resources
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\07_FlowLayoutPanel.csproj.GenerateResource.cache
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\07_FlowLayoutPanel.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\06_Layout.exe
+D:\share\github\csharp\07_FlowLayoutPanel\06_Layout\obj\Debug\06_Layout.pdb

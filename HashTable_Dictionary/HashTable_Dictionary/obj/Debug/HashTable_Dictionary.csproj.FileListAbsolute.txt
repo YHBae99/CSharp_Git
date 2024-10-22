@@ -1,0 +1,10 @@
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\bin\Debug\HashTable_Dictionary.exe.config
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\bin\Debug\HashTable_Dictionary.exe
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\bin\Debug\HashTable_Dictionary.pdb
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.csproj.AssemblyReference.cache
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.Form1.resources
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.Properties.Resources.resources
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.csproj.GenerateResource.cache
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.exe
+D:\share\github\csharp\HashTable_Dictionary\HashTable_Dictionary\obj\Debug\HashTable_Dictionary.pdb

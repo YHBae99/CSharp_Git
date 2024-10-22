@@ -1,0 +1,9 @@
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\bin\Debug\08_CodeOrganization.exe.config
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\bin\Debug\08_CodeOrganization.exe
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\bin\Debug\08_CodeOrganization.pdb
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\obj\Debug\08_CodeOrganization.csproj.AssemblyReference.cache
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\obj\Debug\_08_CodeOrganization.Properties.Resources.resources
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\obj\Debug\08_CodeOrganization.csproj.GenerateResource.cache
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\obj\Debug\08_CodeOrganization.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\obj\Debug\08_CodeOrganization.exe
+D:\share\github\csharp\08_CodeOrganization\08_CodeOrganization\obj\Debug\08_CodeOrganization.pdb

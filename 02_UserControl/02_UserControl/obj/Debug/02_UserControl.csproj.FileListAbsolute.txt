@@ -1,0 +1,11 @@
+D:\share\github\csharp\02_UserControl\02_UserControl\bin\Debug\02_UserControl.exe.config
+D:\share\github\csharp\02_UserControl\02_UserControl\bin\Debug\02_UserControl.exe
+D:\share\github\csharp\02_UserControl\02_UserControl\bin\Debug\02_UserControl.pdb
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\02_UserControl.csproj.AssemblyReference.cache
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\_02_UserControl.Properties.Resources.resources
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\_02_UserControl.UCInfo.resources
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\02_UserControl.csproj.GenerateResource.cache
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\02_UserControl.csproj.CoreCompileInputs.cache
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\02_UserControl.exe
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\02_UserControl.pdb
+D:\share\github\csharp\02_UserControl\02_UserControl\obj\Debug\_02_UserControl.Form1.resources

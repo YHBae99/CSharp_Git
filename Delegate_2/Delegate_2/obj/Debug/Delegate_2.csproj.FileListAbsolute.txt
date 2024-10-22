@@ -1,0 +1,9 @@
+E:\Github\CSharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.csproj.AssemblyReference.cache
+E:\Github\CSharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.Properties.Resources.resources
+E:\Github\CSharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.csproj.GenerateResource.cache
+E:\Github\CSharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.csproj.CoreCompileInputs.cache
+E:\Github\CSharp\Delegate_2\Delegate_2\bin\Debug\Delegate_2.exe.config
+E:\Github\CSharp\Delegate_2\Delegate_2\bin\Debug\Delegate_2.exe
+E:\Github\CSharp\Delegate_2\Delegate_2\bin\Debug\Delegate_2.pdb
+E:\Github\CSharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.exe
+E:\Github\CSharp\Delegate_2\Delegate_2\obj\Debug\Delegate_2.pdb
