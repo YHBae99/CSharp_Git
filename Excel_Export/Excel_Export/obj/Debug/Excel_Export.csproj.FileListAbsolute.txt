@@ -1,0 +1,10 @@
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\bin\Debug\Excel_Export.exe.config
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\bin\Debug\Excel_Export.exe
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\bin\Debug\Excel_Export.pdb
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.csproj.ResolveComReference.cache
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.Properties.Resources.resources
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.exe
+E:\Github\CSharp_Git\Excel_Export\Excel_Export\obj\Debug\Excel_Export.pdb

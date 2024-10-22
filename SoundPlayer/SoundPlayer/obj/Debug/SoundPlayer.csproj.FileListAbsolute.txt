@@ -1,0 +1,12 @@
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\Interop.MediaPlayer.dll
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csproj.ResolveComReference.cache
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.Properties.Resources.resources
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe.config
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.pdb
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\bin\Debug\Interop.MediaPlayer.dll
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.exe
+E:\Github\CSharp_Git\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.pdb

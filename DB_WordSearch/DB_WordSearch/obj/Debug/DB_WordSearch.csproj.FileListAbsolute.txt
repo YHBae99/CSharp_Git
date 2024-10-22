@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\bin\Debug\DB_WordSearch.exe.config
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\bin\Debug\DB_WordSearch.exe
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\bin\Debug\DB_WordSearch.pdb
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\obj\Debug\DB_WordSearch.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\obj\Debug\DB_WordSearch.Properties.Resources.resources
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\obj\Debug\DB_WordSearch.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\obj\Debug\DB_WordSearch.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\obj\Debug\DB_WordSearch.exe
+E:\Github\CSharp_Git\DB_WordSearch\DB_WordSearch\obj\Debug\DB_WordSearch.pdb
