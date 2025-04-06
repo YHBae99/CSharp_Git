@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\obj\Debug\13_MemoryAddress.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\obj\Debug\_13_MemoryAddress.Properties.Resources.resources
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\obj\Debug\13_MemoryAddress.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\obj\Debug\13_MemoryAddress.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\bin\Debug\13_MemoryAddress.exe.config
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\bin\Debug\13_MemoryAddress.exe
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\bin\Debug\13_MemoryAddress.pdb
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\obj\Debug\13_MemoryAddress.exe
+E:\Github\CSharp_Git\13_MemoryAddress\13_MemoryAddress\obj\Debug\13_MemoryAddress.pdb

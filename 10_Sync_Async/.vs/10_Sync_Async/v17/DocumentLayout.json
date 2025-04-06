@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\CSharp_Git\\10_Sync_Async\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|e:\\github\\csharp_git\\10_sync_async\\10_sync_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|solutionrelative:10_sync_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|e:\\github\\csharp_git\\10_sync_async\\10_sync_async\\cobject\\cdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|solutionrelative:10_sync_async\\cobject\\cdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|e:\\github\\csharp_git\\10_sync_async\\10_sync_async\\cobject\\cbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|solutionrelative:10_sync_async\\cobject\\cbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|e:\\github\\csharp_git\\10_sync_async\\10_sync_async\\cobject\\crobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|solutionrelative:10_sync_async\\cobject\\crobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|e:\\github\\csharp_git\\10_sync_async\\10_sync_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|solutionrelative:10_sync_async\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|e:\\github\\csharp_git\\10_sync_async\\10_sync_async\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEEF14FB-5E9C-4219-9E0B-317ABE2411FA}|10_Sync_Async\\10_Sync_Async.csproj|solutionrelative:10_sync_async\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRobot.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\CObject\\CRobot.cs",
+              "RelativeDocumentMoniker": "10_Sync_Async\\CObject\\CRobot.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\CObject\\CRobot.cs",
+              "RelativeToolTip": "10_Sync_Async\\CObject\\CRobot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:56:18.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDoor.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\CObject\\CDoor.cs",
+              "RelativeDocumentMoniker": "10_Sync_Async\\CObject\\CDoor.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\CObject\\CDoor.cs",
+              "RelativeToolTip": "10_Sync_Async\\CObject\\CDoor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:56:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CBase.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\CObject\\CBase.cs",
+              "RelativeDocumentMoniker": "10_Sync_Async\\CObject\\CBase.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\CObject\\CBase.cs",
+              "RelativeToolTip": "10_Sync_Async\\CObject\\CBase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:56:00.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\Form1.cs",
+              "RelativeDocumentMoniker": "10_Sync_Async\\Form1.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\Form1.cs",
+              "RelativeToolTip": "10_Sync_Async\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:54:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "10_Sync_Async\\Form1.Designer.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\Form1.Designer.cs",
+              "RelativeToolTip": "10_Sync_Async\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:54:21.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\Form1.cs",
+              "RelativeDocumentMoniker": "10_Sync_Async\\Form1.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\10_Sync_Async\\10_Sync_Async\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "10_Sync_Async\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:54:09.453Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

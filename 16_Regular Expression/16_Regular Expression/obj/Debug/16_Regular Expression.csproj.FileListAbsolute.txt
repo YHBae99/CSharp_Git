@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\bin\Debug\16_Regular Expression.exe.config
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\bin\Debug\16_Regular Expression.exe
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\bin\Debug\16_Regular Expression.pdb
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\obj\Debug\16_Regular Expression.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\obj\Debug\_16_Regular_Expression.Properties.Resources.resources
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\obj\Debug\16_Regular Expression.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\obj\Debug\16_Regular Expression.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\obj\Debug\16_Regular Expression.exe
+E:\Github\CSharp_Git\16_Regular Expression\16_Regular Expression\obj\Debug\16_Regular Expression.pdb

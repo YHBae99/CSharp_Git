@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\CSharp_Git\\17_PrintDocument\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\view\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\view\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\presenter\\cpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\presenter\\cpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\model\\cmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\model\\cmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\cpublicenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\cpublicenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|e:\\github\\csharp_git\\17_printdocument\\17_printdocument\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C06E6B-E422-42EE-9025-BCD1A15E7C2B}|17_PrintDocument\\17_PrintDocument.csproj|solutionrelative:17_printdocument\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cPublicEnum.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\cPublicEnum.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\cPublicEnum.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\cPublicEnum.cs",
+              "RelativeToolTip": "17_PrintDocument\\cPublicEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:31:13.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "iView.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\View\\iView.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\View\\iView.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\View\\iView.cs",
+              "RelativeToolTip": "17_PrintDocument\\View\\iView.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:31:00.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cPresenter.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Presenter\\cPresenter.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\Presenter\\cPresenter.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Presenter\\cPresenter.cs",
+              "RelativeToolTip": "17_PrintDocument\\Presenter\\cPresenter.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:30:51.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iModel.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Model\\iModel.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\Model\\iModel.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Model\\iModel.cs*",
+              "RelativeToolTip": "17_PrintDocument\\Model\\iModel.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:30:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cModel.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Model\\cModel.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\Model\\cModel.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Model\\cModel.cs",
+              "RelativeToolTip": "17_PrintDocument\\Model\\cModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAD4vy8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:30:33.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\frmMain.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\frmMain.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\frmMain.cs",
+              "RelativeToolTip": "17_PrintDocument\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:29:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Program.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\Program.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\Program.cs",
+              "RelativeToolTip": "17_PrintDocument\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:29:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\frmMain.Designer.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\frmMain.Designer.cs",
+              "RelativeToolTip": "17_PrintDocument\\frmMain.Designer.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAcwNsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:29:26.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\frmMain.cs",
+              "RelativeDocumentMoniker": "17_PrintDocument\\frmMain.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\17_PrintDocument\\17_PrintDocument\\frmMain.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "17_PrintDocument\\frmMain.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:22:07.335Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

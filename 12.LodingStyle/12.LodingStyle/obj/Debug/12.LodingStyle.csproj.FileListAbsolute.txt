@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\bin\Debug\12.LodingStyle.exe.config
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\bin\Debug\12.LodingStyle.exe
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\bin\Debug\12.LodingStyle.pdb
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\obj\Debug\12.LodingStyle.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\obj\Debug\_12.LodingStyle.Properties.Resources.resources
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\obj\Debug\12.LodingStyle.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\obj\Debug\12.LodingStyle.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\obj\Debug\12.LodingStyle.exe
+E:\Github\CSharp_Git\12.LodingStyle\12.LodingStyle\obj\Debug\12.LodingStyle.pdb

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="18_UnitConvertLib">
+      <HintPath>..\..\18_UnitConvertLib\18_UnitConvertLib\bin\Debug\net8.0\18_UnitConvertLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

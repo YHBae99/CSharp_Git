@@ -1,0 +1,39 @@
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.exe.config
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.exe
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.pdb
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csprojAssemblyReference.cache
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\obj\Debug\Display_Number_MVP.Properties.Resources.resources
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csproj.GenerateResource.cache
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.exe
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.pdb
+C:\Users\사용자\source\repos\Display Number MVP\Display Number MVP\obj\Debug\Display_Number_MVP.frmMain.resources
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.exe.config
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.exe
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.pdb
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display_Number_MVP.frmMain.resources
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display_Number_MVP.Properties.Resources.resources
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.exe
+C:\Users\win10\Desktop\Display Number MVP 20230124\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.pdb
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.exe.config
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.exe
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\bin\Debug\Display Number MVP.pdb
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csprojResolveAssemblyReference.cache
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display_Number_MVP.frmMain.resources
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display_Number_MVP.Properties.Resources.resources
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csproj.GenerateResource.Cache
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.exe
+C:\Users\사용자\Desktop\MVP\Display Number MVP 20230125\Display Number MVP 20230125\Display Number MVP\Display Number MVP\obj\Debug\Display Number MVP.pdb
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\bin\Debug\Display Number MVP.exe.config
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\bin\Debug\Display Number MVP.exe
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\bin\Debug\Display Number MVP.pdb
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display Number MVP.csproj.AssemblyReference.cache
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display_Number_MVP.frmMain.resources
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display_Number_MVP.Properties.Resources.resources
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display Number MVP.csproj.GenerateResource.cache
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display Number MVP.csproj.CoreCompileInputs.cache
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display Number MVP.exe
+C:\Users\ateri\Downloads\66. Software Design Pattern MVP (feat.MVC)\66. Software Design Pattern MVP (feat.MVC)\Display Number MVP\obj\Debug\Display Number MVP.pdb

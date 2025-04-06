@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\bin\Debug\15_Parallel_T.exe.config
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\bin\Debug\15_Parallel_T.exe
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\bin\Debug\15_Parallel_T.pdb
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\obj\Debug\15_Parallel_T.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\obj\Debug\_15_Parallel_T.Properties.Resources.resources
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\obj\Debug\15_Parallel_T.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\obj\Debug\15_Parallel_T.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\obj\Debug\15_Parallel_T.exe
+E:\Github\CSharp_Git\15_Parallel_T\15_Parallel_T\obj\Debug\15_Parallel_T.pdb

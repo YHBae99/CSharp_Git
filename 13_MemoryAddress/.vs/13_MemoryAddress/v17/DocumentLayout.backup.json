@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|e:\\github\\csharp_git\\13_memoryaddress\\13_memoryaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\cfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\cfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\ccopysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\ccopysample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\ucmemoryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\ucmemoryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\ucmemoryaddress.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\ucmemoryaddress.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_memoryaddress\\ucmemoryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27877A94-FF38-450A-8CA0-0E57079E1FB2}|13_MemoryAddress\\13_MemoryAddress.csproj|solutionrelative:13_memoryaddress\\ucmemoryaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Form1.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\Form1.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Form1.cs",
+              "RelativeToolTip": "13_MemoryAddress\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T05:01:37.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucMemoryAddress.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\ucMemoryAddress.Designer.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\ucMemoryAddress.Designer.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\ucMemoryAddress.Designer.cs",
+              "RelativeToolTip": "13_MemoryAddress\\ucMemoryAddress.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:59:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucMemoryAddress.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\ucMemoryAddress.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\ucMemoryAddress.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\ucMemoryAddress.cs",
+              "RelativeToolTip": "13_MemoryAddress\\ucMemoryAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:59:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucMemoryAddress.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\ucMemoryAddress.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\ucMemoryAddress.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\ucMemoryAddress.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "13_MemoryAddress\\ucMemoryAddress.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:59:25.66Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cField.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\cField.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\cField.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\cField.cs",
+              "RelativeToolTip": "13_MemoryAddress\\cField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:58:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cCopySample.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\cCopySample.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\cCopySample.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\cCopySample.cs",
+              "RelativeToolTip": "13_MemoryAddress\\cCopySample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:58:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Program.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\Program.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Program.cs",
+              "RelativeToolTip": "13_MemoryAddress\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:57:44.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\Form1.Designer.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Form1.Designer.cs",
+              "RelativeToolTip": "13_MemoryAddress\\Form1.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAMwDsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:56:59.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Form1.cs",
+              "RelativeDocumentMoniker": "13_MemoryAddress\\Form1.cs",
+              "ToolTip": "E:\\Github\\CSharp_Git\\13_MemoryAddress\\13_MemoryAddress\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "13_MemoryAddress\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:51:05.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

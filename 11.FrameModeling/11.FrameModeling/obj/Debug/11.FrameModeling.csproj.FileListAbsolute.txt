@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\obj\Debug\11.FrameModeling.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\obj\Debug\_11.FrameModeling.Properties.Resources.resources
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\obj\Debug\11.FrameModeling.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\obj\Debug\11.FrameModeling.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\bin\Debug\11.FrameModeling.exe.config
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\bin\Debug\11.FrameModeling.exe
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\bin\Debug\11.FrameModeling.pdb
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\obj\Debug\11.FrameModeling.exe
+E:\Github\CSharp_Git\11.FrameModeling\11.FrameModeling\obj\Debug\11.FrameModeling.pdb

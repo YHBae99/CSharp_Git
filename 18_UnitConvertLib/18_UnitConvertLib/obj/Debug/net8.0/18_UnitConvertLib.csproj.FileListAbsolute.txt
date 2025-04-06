@@ -1,0 +1,12 @@
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\bin\Debug\net8.0\18_UnitConvertLib.deps.json
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\bin\Debug\net8.0\18_UnitConvertLib.dll
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\bin\Debug\net8.0\18_UnitConvertLib.pdb
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.AssemblyInfoInputs.cache
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.AssemblyInfo.cs
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.sourcelink.json
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.dll
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\refint\18_UnitConvertLib.dll
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\18_UnitConvertLib.pdb
+E:\Github\CSharp_Git\18_UnitConvertLib\18_UnitConvertLib\obj\Debug\net8.0\ref\18_UnitConvertLib.dll

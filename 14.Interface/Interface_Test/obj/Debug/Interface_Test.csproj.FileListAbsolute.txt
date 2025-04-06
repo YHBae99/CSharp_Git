@@ -1,0 +1,59 @@
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\bin\Debug\Interface_Test.exe.config
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\bin\Debug\Interface_Test.exe
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\bin\Debug\Interface_Test.pdb
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.Form1.resources
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.Properties.Resources.resources
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.exe
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.pdb
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.fInnerMain.resources
+C:\Users\win10\source\repos\Interface_Test\Interface_Test\obj\Debug\Interface_Test.fInnerSub.resources
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.csprojResolveAssemblyReference.cache
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.fInnerMain.resources
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.Form1.resources
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.fInnerSub.resources
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.Properties.Resources.resources
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.csproj.GenerateResource.Cache
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.exe
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\obj\Debug\Interface_Test.pdb
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\bin\Debug\Interface_Test.exe.config
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\bin\Debug\Interface_Test.exe
+C:\Users\사용자\Desktop\Interface_Test\Interface_Test\bin\Debug\Interface_Test.pdb
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.fInnerMain.resources
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.Form1.resources
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.fInnerSub.resources
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.Properties.Resources.resources
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.csproj.GenerateResource.Cache
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.exe
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.pdb
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\bin\Debug\Interface_Test.exe.config
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\bin\Debug\Interface_Test.exe
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\bin\Debug\Interface_Test.pdb
+C:\Users\사용자\Desktop\Interface_Test UI\Interface_Test\obj\Debug\Interface_Test.csprojAssemblyReference.cache
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\bin\Debug\Interface_Test.exe.config
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\bin\Debug\Interface_Test.exe
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\bin\Debug\Interface_Test.pdb
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.csprojResolveAssemblyReference.cache
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.fInnerMain.resources
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.Form1.resources
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.fInnerSub.resources
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.Properties.Resources.resources
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.csproj.GenerateResource.Cache
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.csproj.CoreCompileInputs.cache
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.exe
+C:\Users\사용자\Desktop\개인문서\개인 문서\C# 강좌\01. doridori C#강의 Source, pdf\2. 응용편\01. Source\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.pdb
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\bin\Debug\Interface_Test.exe.config
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\bin\Debug\Interface_Test.exe
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\bin\Debug\Interface_Test.pdb
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.csproj.AssemblyReference.cache
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.fInnerMain.resources
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.Form1.resources
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.fInnerSub.resources
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.Properties.Resources.resources
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.csproj.GenerateResource.cache
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.csproj.CoreCompileInputs.cache
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.exe
+C:\Users\ateri\Downloads\Study_56_인터페이스(Interface)\Interface_Test\obj\Debug\Interface_Test.pdb

@@ -1,0 +1,9 @@
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\bin\Debug\10_Sync_Async.exe.config
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\bin\Debug\10_Sync_Async.exe
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\bin\Debug\10_Sync_Async.pdb
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\obj\Debug\10_Sync_Async.csproj.AssemblyReference.cache
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\obj\Debug\_10_Sync_Async.Properties.Resources.resources
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\obj\Debug\10_Sync_Async.csproj.GenerateResource.cache
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\obj\Debug\10_Sync_Async.csproj.CoreCompileInputs.cache
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\obj\Debug\10_Sync_Async.exe
+E:\Github\CSharp_Git\10_Sync_Async\10_Sync_Async\obj\Debug\10_Sync_Async.pdb
